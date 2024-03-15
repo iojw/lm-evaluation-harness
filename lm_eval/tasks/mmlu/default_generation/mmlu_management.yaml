@@ -1,0 +1,6 @@
+"dataset_name": "management"
+"description": "The following are multiple choice questions (with answers) about management.\n\
+  \n"
+"group": "mmlu_default_generation_other"
+"include": "_mmlu_default_generation_template_yaml"
+"task": "mmlu_default_generation_management"

@@ -1,0 +1,6 @@
+group: mmlu_default_generation
+task:
+  - mmlu_default_generation_stem
+  - mmlu_default_generation_other
+  - mmlu_default_generation_social_sciences
+  - mmlu_default_generation_humanities

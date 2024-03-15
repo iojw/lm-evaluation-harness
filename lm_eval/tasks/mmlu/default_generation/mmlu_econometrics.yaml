@@ -1,0 +1,6 @@
+"dataset_name": "econometrics"
+"description": "The following are multiple choice questions (with answers) about econometrics.\n\
+  \n"
+"group": "mmlu_default_generation_social_sciences"
+"include": "_mmlu_default_generation_template_yaml"
+"task": "mmlu_default_generation_econometrics"
